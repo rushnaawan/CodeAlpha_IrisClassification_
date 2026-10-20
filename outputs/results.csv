@@ -1,0 +1,6 @@
+model,cv_accuracy,test_accuracy
+Logistic Regression,0.958,0.933
+KNN,0.967,0.933
+Decision Tree,0.942,0.933
+Random Forest,0.95,0.9
+SVM,0.967,0.967
